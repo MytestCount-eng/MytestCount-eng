@@ -8,6 +8,8 @@ ahebutFaBD4+/2iYxyQO9cTKfxapknB5P31jHP+tXqq38hNc2rIDU7UwVcPocHehVXBF8E7lliMy9p6U
 
 --x86 - bin
 hsxazFaBD4+/2iYxyQO9cTKfxapknB5P31jHP+tXqq38hNc2rIDU7UwVcPocHehVXBF8E7lliMy9p6USsDPa4IUvSzORluMgx2DuZEdkB/BOo1BpKcjNa+6jwGAqcbirayx
+--x64 bin
+afgbuxFaBD4+/2iYxyQO9cTKfxapknB5P31jHP+tXqq38hNc2rIDU7UwVcPocHehVXBF8E7lliMy9p6USsDPa4IUvSzORluMgx2DuZEdkB/BOo1BpKcjNa+6jwGASeertfvds
 
 wearexFaBD4+/2iYxyQO9cTKfxapknB5P31jHP+tXqq38hNc2rIDU7UwVcPocHehVXBF8E7lliMy9p6USsDPa4IUvSzORluMgx2DuZEdkB/BOo1BpKcjhoz47dOAqcnotxht
 
